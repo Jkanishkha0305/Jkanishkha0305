@@ -20,12 +20,12 @@
   <br/>
 </div>
 
-<h4> 📈 Contribution Graph </h2>
+<h3> 📈 Contribution Graph </h2>
 <p align="center">
 <img src="https://activity-graph.herokuapp.com/graph?username=Jkanishkha0305&theme=react-dark&hide_border=true&area=true">
   </p>
   
-<h4>🏆Trophies </h2>
+<h3> 🏆 Trophies </h2>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jkanishkha0305" alt="Jkanishkha0305" /></a> </p>
 
 ## 🙋‍♂️ Connect with me
