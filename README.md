@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ROS,AWS,Tensorflow,Pytorch**
 
-- 💬 Ask me about **Robotics,DataScience,OpenCv**
+- 💬 Ask me about **Robotics,DataScience,OpenCV**
 
 - 📫 How to reach me **f20190072@dubai.bits-pilani.ac.in**
 <br>
