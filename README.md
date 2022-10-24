@@ -48,5 +48,5 @@
   </p>
   
 <h3> 🏆 Trophies </h2>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jkanishkha0305&theme=onedark&no-frame=true&no-bg=true&margin-w=8" alt="Jkanishkha0305" /></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jkanishkha0305&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Jkanishkha0305" /></a> </p>
 
