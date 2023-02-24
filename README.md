@@ -41,11 +41,6 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jkanishkha0305's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkanishkha0305&langs_count=8&layout=compact&theme=vision-friendly-dark&border=true" height="192px"/></a>
   <br/>
 </div>
-
-<h3> 📈 Contribution Graph </h2>
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=Jkanishkha0305&theme=react-dark&hide_border=true&area=true">
-  </p>
   
 <h3> 🏆 Trophies </h2>
  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jkanishkha0305&theme=onedark&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="Jkanishkha0305"/></a> </p>
