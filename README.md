@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **AI/ML Projects**
 
-- 🌱 I’m currently learning **ROS,AWS,Tensorflow,Pytorch**
+- 🌱 I’m currently learning **Datascience,AWS,Tensorflow,Pytorch**
 
-- 💬 Ask me about **Robotics,Transformers,OpenCV**
+- 💬 Ask me about **NLP,Transformers,OpenCV**
 
-- 📫 How to reach me **f20190072@dubai.bits-pilani.ac.in**
+- 📫 How to reach me **jkanishkha0305@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
