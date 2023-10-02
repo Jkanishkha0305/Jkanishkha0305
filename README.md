@@ -67,7 +67,7 @@
 </div>
   
 <h3> 🏆 Trophies </h2>
- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jkanishkha0305&theme=onedark&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="Jkanishkha0305"/></a> </p>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jkanishkha0305&theme=monokai&no-bg=true&margin-w=4&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest" alt="Jkanishkha0305"/></a> </p>
  
 <p align="center"> <a [![trophy](https://github-profile-trophy.vercel.app/?usernameJkanishkha0305=&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers 
 </p>
