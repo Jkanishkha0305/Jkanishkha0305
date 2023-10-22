@@ -77,6 +77,6 @@
 
 <p align="center">
 
-![Snake animation](https://github.com/Fir121/Fir121/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/Jkanishkha0305/Jkanishkha0305/blob/main/assets/jkanishkha0305.svg)
 
 </p>
