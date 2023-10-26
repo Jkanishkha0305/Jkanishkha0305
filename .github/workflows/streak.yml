@@ -1,0 +1,30 @@
+name: Update Number
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Every 12 hours
+
+jobs:
+  update-number:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check Out Repository
+        uses: actions/checkout@v2
+
+      - name: Update Number
+        run: |
+          # Increment the number (you can adjust this logic)
+          current_number=$(cat assets/streak.txt)  # Correct the path
+          new_number=$((current_number + 1))
+          echo $new_number > assets/streak.txt  # Correct the path
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add assets/number.txt  # Correct the path
+          git commit -m "Update number"
+          git push
+        env:
+          PAT: ${{ secrets.GITHUB_TOKEN }}
