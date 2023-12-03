@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI/ML Projects**
 
-- 🌱 I’m currently learning **Datascience,AWS,Tensorflow,Pytorch**
+- 🌱 I’m currently learning **LLMs,AWS,Tensorflow,Pytorch**
 
 - 💬 Ask me about **NLP,Transformers,OpenCV**
 
