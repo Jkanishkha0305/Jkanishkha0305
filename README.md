@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm  J.KANISHKHA</h1>
-<h2 align="center">Computer Science Undergraduate from Birla Institute of Technology and Science  🎓 </h2>
+<h2 align="center">Masters in Data Science @ New York University 🎓📚🗽 </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jkanishkha0305&label=Profile%20views&color=0e75b6&style=flat" alt="Jkanishkha" /> </p>
 
