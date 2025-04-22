@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI/ML Projects**
 
-- 🌱 I’m currently learning **LLMs,AI Agents,DSPy, RAG**
+- 🌱 I’m currently learning **LLMs,AI Agents, Production Grade RAG**
 
 - 💬 Ask me about **NLP,Transformers,OpenCV**
 
