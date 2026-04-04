@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="430" alt="Animated coding workspace" />
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2f31f1dc-fde3-40a3-b1b8-0ade33c516fd.gif" width="430" alt="3D neon statistics visual" />
 </p>
 
 <p align="center">
@@ -156,15 +156,13 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration%20and%20Applied%20AI-ff0055?style=plastic&logoColor=white" alt="Open to collaboration and applied AI" />
 </p>
 
-## GitHub Dashboard
+## 3D Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jkanishkha0305&theme=2077" alt="GitHub stats summary card" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution landscape" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jkanishkha0305&theme=2077&utcOffset=-4" alt="GitHub productive time card" />
-</p>
+## GitHub Signals
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jkanishkha0305&theme=2077" width="49%" alt="Repositories per language" />
