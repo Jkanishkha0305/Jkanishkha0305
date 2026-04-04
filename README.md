@@ -42,8 +42,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jkanishkha0305&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Jkanishkha0305?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Location-New%20York?style=plastic&color=fcee0c&logo=googlemaps&logoColor=050816" alt="Location New York" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20%26%20MLOps?style=plastic&color=00ffc8&logoColor=050816" alt="Focus on LLM Systems and MLOps" />
+  <img src="https://img.shields.io/badge/Location-New%20York-fcee0c?style=plastic&logo=googlemaps&logoColor=050816" alt="Location New York" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20and%20MLOps-00ffc8?style=plastic&logoColor=050816" alt="Focus on LLM Systems and MLOps" />
 </p>
 
 ## What I Build
@@ -151,9 +151,9 @@
 ## Signal Board
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build%20Mode-Research%20to%20Production?style=plastic&color=03d8f3&logoColor=050816" alt="Research to production" />
-  <img src="https://img.shields.io/badge/Primary%20Themes-LLMs%20%7C%20MLOps%20%7C%20Multimodal?style=plastic&color=fcee0c&logoColor=050816" alt="Primary themes" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20and%20Applied%20AI?style=plastic&color=ff0055&logoColor=white" alt="Open to collaboration and applied AI" />
+  <img src="https://img.shields.io/badge/Build%20Mode-Research%20to%20Production-03d8f3?style=plastic&logoColor=050816" alt="Research to production" />
+  <img src="https://img.shields.io/badge/Primary%20Themes-LLMs%20%7C%20MLOps%20%7C%20Multimodal-fcee0c?style=plastic&logoColor=050816" alt="Primary themes" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20and%20Applied%20AI-ff0055?style=plastic&logoColor=white" alt="Open to collaboration and applied AI" />
 </p>
 
 ## GitHub Dashboard
