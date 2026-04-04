@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,20:1d4ed8,45:0ea5e9,70:14b8a6,100:22c55e&text=J.%20Kanishkha&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20MSDS%20at%20NYU%20CDS%20%7C%20Building%20production-grade%20ML%20systems&descAlignY=60&animation=fadeIn" alt="Header banner for J. Kanishkha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2e1065,25:6d28d9,55:a855f7,80:c084fc,100:f5d0fe&text=J.%20Kanishkha&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20MSDS%20at%20NYU%20CDS%20%7C%20Building%20production-grade%20ML%20systems&descAlignY=60&animation=fadeIn" alt="Header banner for J. Kanishkha" />
 </p>
 
 <h1 align="center">
@@ -15,8 +15,12 @@
 </p>
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="420" alt="Animated coding workspace" />
+</p>
+
+<p align="center">
   <a href="https://www.jkanishkha.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2e1065?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jkanishkha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -36,10 +40,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jkanishkha0305&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Jkanishkha0305?style=for-the-badge&logo=github&label=Followers&color=1d4ed8" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Location-New%20York-14b8a6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location New York" />
-  <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20%26%20MLOps-22c55e?style=for-the-badge" alt="Focus on LLM Systems and MLOps" />
+  <img src="https://komarev.com/ghpvc/?username=Jkanishkha0305&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Jkanishkha0305?style=for-the-badge&logo=github&label=Followers&color=7c3aed" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Location-New%20York-a855f7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location New York" />
+  <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20%26%20MLOps-c084fc?style=for-the-badge" alt="Focus on LLM Systems and MLOps" />
 </p>
 
 ## What I Build
@@ -58,12 +62,12 @@
 ## Ask Me About
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-0f172a?style=for-the-badge&logoColor=white" alt="RAG pipelines" />
-  <img src="https://img.shields.io/badge/Agent%20Workflows-1d4ed8?style=for-the-badge&logoColor=white" alt="Agent workflows" />
-  <img src="https://img.shields.io/badge/Transformers-0ea5e9?style=for-the-badge&logoColor=white" alt="Transformers" />
-  <img src="https://img.shields.io/badge/Multimodal%20AI-14b8a6?style=for-the-badge&logoColor=white" alt="Multimodal AI" />
-  <img src="https://img.shields.io/badge/MLOps-22c55e?style=for-the-badge&logoColor=white" alt="MLOps" />
-  <img src="https://img.shields.io/badge/Graph%20Reasoning-0369a1?style=for-the-badge&logoColor=white" alt="Graph reasoning" />
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-4c1d95?style=for-the-badge&logoColor=white" alt="RAG pipelines" />
+  <img src="https://img.shields.io/badge/Agent%20Workflows-6d28d9?style=for-the-badge&logoColor=white" alt="Agent workflows" />
+  <img src="https://img.shields.io/badge/Transformers-7c3aed?style=for-the-badge&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Multimodal%20AI-8b5cf6?style=for-the-badge&logoColor=white" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/MLOps-a855f7?style=for-the-badge&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Graph%20Reasoning-c084fc?style=for-the-badge&logoColor=white" alt="Graph reasoning" />
 </p>
 
 ## Featured Projects
@@ -147,13 +151,17 @@
 ## GitHub Signal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Build%20Style-Research%20to%20Production-0f172a?style=for-the-badge&logoColor=white" alt="Research to production" />
-  <img src="https://img.shields.io/badge/Primary%20Themes-LLMs%20%7C%20MLOps%20%7C%20Multimodal-1d4ed8?style=for-the-badge&logoColor=white" alt="Primary themes" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20and%20Applied%20AI-14b8a6?style=for-the-badge&logoColor=white" alt="Open to collaboration and applied AI" />
+  <img src="https://img.shields.io/badge/Build%20Style-Research%20to%20Production-4c1d95?style=for-the-badge&logoColor=white" alt="Research to production" />
+  <img src="https://img.shields.io/badge/Primary%20Themes-LLMs%20%7C%20MLOps%20%7C%20Multimodal-7c3aed?style=for-the-badge&logoColor=white" alt="Primary themes" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20and%20Applied%20AI-a855f7?style=for-the-badge&logoColor=white" alt="Open to collaboration and applied AI" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jkanishkha0305&hide_border=true&background=00000000&stroke=94a3b8&ring=38bdf8&fire=22c55e&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=94a3b8" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Jkanishkha0305&hide_border=true&background=00000000&stroke=a78bfa&ring=a855f7&fire=c084fc&currStreakNum=f5f3ff&sideNums=f5f3ff&currStreakLabel=c084fc&sideLabels=a78bfa&dates=a78bfa" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jkanishkha0305&bg_color=0d1117&color=e9d5ff&line=a855f7&point=c084fc&area=true&hide_border=true&title_color=c084fc" alt="GitHub activity graph" />
 </p>
 
 ## Contribution Snake

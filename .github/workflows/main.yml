@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "17 2,14 * * *"
+    - cron: "17 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -35,8 +35,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=%230ea5e9&color_dots=%23e2e8f0,%23bae6fd,%237dd3fc,%230ea5e9,%230369a1
-            dist/github-snake-dark.svg?color_snake=%2322c55e&color_dots=%230f172a,%231e293b,%230f766e,%230ea5e9,%2322c55e
+            dist/github-snake.svg?color_snake=%23a855f7&color_dots=%23f5f3ff,%23e9d5ff,%23d8b4fe,%23a855f7,%236b21a8
+            dist/github-snake-dark.svg?color_snake=%23c084fc&color_dots=%230f172a,%232e1065,%234c1d95,%237c3aed,%23c084fc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
