@@ -80,26 +80,68 @@
 - [`fashion-recsys`](https://github.com/Jkanishkha0305/fashion-recsys): End-to-end recommendation system for fashion retrieval and ranking
 - [`LLMs-from-Scratch`](https://github.com/Jkanishkha0305/LLMs-from-Scratch): Hands-on implementations of LLMs, SLMs, and VLMs for experimentation
 
-## Stack I Reach For
+## Technical Stack
+
+**Languages And Frameworks**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logoColor=22c55e" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LlamaIndex-111827?style=for-the-badge&logoColor=0ea5e9" alt="LlamaIndex" />
-  <img src="https://img.shields.io/badge/OpenCV-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Neo4j-111827?style=for-the-badge&logo=neo4j&logoColor=4581C3" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-111827?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=c%2B%2B&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React_Native-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/FastMCP-111827?style=flat-square" alt="FastMCP" />
 </p>
 
+**ML And AI**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Spark-111827?style=flat-square&logo=apachespark&logoColor=E25A1C" alt="Spark" />
+  <img src="https://img.shields.io/badge/Hugging_Face-111827?style=flat-square&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-111827?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Google_ADK-111827?style=flat-square" alt="Google ADK" />
+  <img src="https://img.shields.io/badge/ONNX-111827?style=flat-square&logo=onnx&logoColor=005CED" alt="ONNX" />
+  <img src="https://img.shields.io/badge/vLLM-111827?style=flat-square" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Ray-111827?style=flat-square" alt="Ray" />
+</p>
+
+**MLOps And Cloud**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Google_Cloud-111827?style=flat-square&logo=googlecloud&logoColor=4285F4" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Databricks-111827?style=flat-square&logo=databricks&logoColor=FF3621" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/MLflow-111827?style=flat-square" alt="MLflow" />
+  <img src="https://img.shields.io/badge/DVC-111827?style=flat-square" alt="DVC" />
+  <img src="https://img.shields.io/badge/DagsHub-111827?style=flat-square" alt="DagsHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/LangSmith-111827?style=flat-square" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/Opik-111827?style=flat-square" alt="Opik" />
+  <img src="https://img.shields.io/badge/W%26B-111827?style=flat-square" alt="Weights and Biases" />
+</p>
+
+**Data, Retrieval, And Systems**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/Qdrant-111827?style=flat-square" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Neo4j-111827?style=flat-square&logo=neo4j&logoColor=4581C3" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/OpenSearch-111827?style=flat-square&logo=opensearch&logoColor=005EB8" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DC382D" alt="Redis" />
+  <img src="https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=ffffff" alt="Kafka" />
+  <img src="https://img.shields.io/badge/CUDA-111827?style=flat-square&logo=nvidia&logoColor=76B900" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 ## GitHub Signal
