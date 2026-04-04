@@ -42,64 +42,65 @@
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20%26%20MLOps-22c55e?style=for-the-badge" alt="Focus on LLM Systems and MLOps" />
 </p>
 
+## Core Areas
+
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <h2>What I Build</h2>
-      <ul>
-        <li>Production-grade RAG and agentic workflows</li>
-        <li>Applied NLP, multimodal AI, and evaluation-heavy ML systems</li>
-        <li>ML infrastructure that moves promising prototypes into dependable products</li>
-        <li>AI products for healthcare, enterprise automation, and human-centered applications</li>
-      </ul>
-
-      <h2>Right Now</h2>
-      <ul>
-        <li>Shipping practical LLM systems and AI agents</li>
-        <li>Going deeper on retrieval, orchestration, and reliable deployment</li>
-        <li>Studying from-scratch model implementations to sharpen fundamentals</li>
-        <li>Exploring production patterns for scalable ML platforms</li>
-      </ul>
-
-      <h2>Ask Me About</h2>
-      <ul>
-        <li>Transformers and modern NLP</li>
-        <li>Retrieval systems and graph-based reasoning</li>
-        <li>Computer vision and multimodal applications</li>
-        <li>MLOps, model deployment, and ML product engineering</li>
-      </ul>
-
-  </td>
-    <td width="42%" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="360" alt="Coding animation" />
+    <td width="33%" valign="top">
+      <strong>LLM Systems</strong><br><br>
+      RAG and agent workflows<br>
+      Evaluation and guardrails<br>
+      Retrieval and orchestration<br>
+      Production deployment
+    </td>
+    <td width="33%" valign="top">
+      <strong>Applied AI</strong><br><br>
+      NLP and transformers<br>
+      Multimodal applications<br>
+      Computer vision pipelines<br>
+      Human-centered AI products
+    </td>
+    <td width="33%" valign="top">
+      <strong>ML Engineering</strong><br><br>
+      MLOps and platform thinking<br>
+      Model serving and observability<br>
+      Cloud-native tooling<br>
+      Research-to-production delivery
     </td>
   </tr>
 </table>
 
+## Current Focus
+
+- Shipping practical LLM systems and AI agents for real users
+- Going deeper on retrieval, orchestration, and evaluation-heavy deployment
+- Studying from-scratch model implementations to sharpen fundamentals
+- Building AI products across healthcare, enterprise automation, and mobility
+
+## Ask Me About
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-0f172a?style=for-the-badge&logoColor=white" alt="RAG pipelines" />
+  <img src="https://img.shields.io/badge/Agent%20Workflows-1d4ed8?style=for-the-badge&logoColor=white" alt="Agent workflows" />
+  <img src="https://img.shields.io/badge/Transformers-0ea5e9?style=for-the-badge&logoColor=white" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Multimodal%20AI-14b8a6?style=for-the-badge&logoColor=white" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/MLOps-22c55e?style=for-the-badge&logoColor=white" alt="MLOps" />
+  <img src="https://img.shields.io/badge/Graph%20Reasoning-0369a1?style=for-the-badge&logoColor=white" alt="Graph reasoning" />
+</p>
+
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Systems And Products</h3>
-      <ul>
-        <li><a href="https://github.com/Jkanishkha0305/mcp-automation-system"><code>mcp-automation-system</code></a>: Enterprise AI automation for PR review, Asana context, and Slack delivery</li>
-        <li><a href="https://github.com/Jkanishkha0305/Medibot-GraphRAG"><code>Medibot-GraphRAG</code></a>: Hospital-focused GraphRAG assistant built with LangChain and Neo4j</li>
-        <li><a href="https://github.com/Jkanishkha0305/Theramind"><code>Theramind</code></a>: Offline mental-health app powered by a fine-tuned small language model</li>
-      </ul>
+### Systems And Products
 
-  </td>
-    <td width="50%" valign="top">
-      <h3>Research And Learning</h3>
-      <ul>
-        <li><a href="https://github.com/Jkanishkha0305/Align2Act"><code>Align2Act</code></a>: Instruction-tuned models for human-aligned autonomous driving</li>
-        <li><a href="https://github.com/Jkanishkha0305/fashion-recsys"><code>fashion-recsys</code></a>: End-to-end recommendation system for fashion retrieval and ranking</li>
-        <li><a href="https://github.com/Jkanishkha0305/LLMs-from-Scratch"><code>LLMs-from-Scratch</code></a>: Hands-on implementations of LLMs, SLMs, and VLMs for experimentation</li>
-      </ul>
+- [`mcp-automation-system`](https://github.com/Jkanishkha0305/mcp-automation-system): Enterprise AI automation for PR review, Asana context, and Slack delivery
+- [`Medibot-GraphRAG`](https://github.com/Jkanishkha0305/Medibot-GraphRAG): Hospital-focused GraphRAG assistant built with LangChain and Neo4j
+- [`Theramind`](https://github.com/Jkanishkha0305/Theramind): Offline mental-health app powered by a fine-tuned small language model
 
-  </td>
-  </tr>
-</table>
+### Research And Learning
+
+- [`Align2Act`](https://github.com/Jkanishkha0305/Align2Act): Instruction-tuned models for human-aligned autonomous driving
+- [`fashion-recsys`](https://github.com/Jkanishkha0305/fashion-recsys): End-to-end recommendation system for fashion retrieval and ranking
+- [`LLMs-from-Scratch`](https://github.com/Jkanishkha0305/LLMs-from-Scratch): Hands-on implementations of LLMs, SLMs, and VLMs for experimentation
 
 ## Stack I Reach For
 
@@ -123,11 +124,12 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
 </p>
 
-## GitHub Analytics
+## GitHub Signal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jkanishkha0305&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=38bdf8&icon_color=22c55e&text_color=cbd5e1&bg_color=00000000" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkanishkha0305&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=00000000" height="180" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Build%20Style-Research%20to%20Production-0f172a?style=for-the-badge&logoColor=white" alt="Research to production" />
+  <img src="https://img.shields.io/badge/Primary%20Themes-LLMs%20%7C%20MLOps%20%7C%20Multimodal-1d4ed8?style=for-the-badge&logoColor=white" alt="Primary themes" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration%20and%20Applied%20AI-14b8a6?style=for-the-badge&logoColor=white" alt="Open to collaboration and applied AI" />
 </p>
 
 <p align="center">
