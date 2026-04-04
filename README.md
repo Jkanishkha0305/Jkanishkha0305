@@ -42,33 +42,11 @@
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20%26%20MLOps-22c55e?style=for-the-badge" alt="Focus on LLM Systems and MLOps" />
 </p>
 
-## Core Areas
+## What I Build
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>LLM Systems</strong><br><br>
-      RAG and agent workflows<br>
-      Evaluation and guardrails<br>
-      Retrieval and orchestration<br>
-      Production deployment
-    </td>
-    <td width="33%" valign="top">
-      <strong>Applied AI</strong><br><br>
-      NLP and transformers<br>
-      Multimodal applications<br>
-      Computer vision pipelines<br>
-      Human-centered AI products
-    </td>
-    <td width="33%" valign="top">
-      <strong>ML Engineering</strong><br><br>
-      MLOps and platform thinking<br>
-      Model serving and observability<br>
-      Cloud-native tooling<br>
-      Research-to-production delivery
-    </td>
-  </tr>
-</table>
+- **LLM systems:** RAG and agent workflows, evaluation and guardrails, retrieval and orchestration, and production deployment
+- **Applied AI:** NLP, transformers, multimodal applications, computer vision pipelines, and human-centered products
+- **ML engineering:** MLOps, model serving, observability, cloud-native tooling, and research-to-production delivery
 
 ## Current Focus
 
