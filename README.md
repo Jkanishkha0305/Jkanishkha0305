@@ -46,20 +46,20 @@
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20and%20MLOps-00ffc8?style=plastic&logoColor=050816" alt="Focus on LLM Systems and MLOps" />
 </p>
 
-## What I Build
+## What I Build 🛠️
 
 - **LLM systems:** RAG and agent workflows, evaluation and guardrails, retrieval orchestration, and production deployment
 - **Applied AI:** NLP, transformers, multimodal applications, computer vision pipelines, and human-centered products
 - **ML engineering:** MLOps, model serving, observability, cloud-native tooling, and research-to-production delivery
 
-## Current Focus
+## Current Focus 🎯
 
 - Shipping practical LLM systems and AI agents for real users
 - Going deeper on retrieval, orchestration, evaluation, and observability
 - Studying from-scratch model implementations to sharpen fundamentals
 - Building AI products across healthcare, enterprise automation, and mobility
 
-## Ask Me About
+## Ask Me About 💬
 
 <p align="center">
   <img src="https://img.shields.io/badge/RAG%20Pipelines-03d8f3?style=plastic&logoColor=050816" alt="RAG pipelines" />
@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/Graph%20Reasoning-22d3ee?style=plastic&logoColor=050816" alt="Graph reasoning" />
 </p>
 
-## Featured Projects
+## Featured Projects 🚀
 
 ### Systems And Products
 
@@ -84,7 +84,7 @@
 - [`fashion-recsys`](https://github.com/Jkanishkha0305/fashion-recsys): End-to-end recommendation system for fashion retrieval and ranking
 - [`LLMs-from-Scratch`](https://github.com/Jkanishkha0305/LLMs-from-Scratch): Hands-on implementations of LLMs, SLMs, and VLMs for experimentation
 
-## Technical Stack
+## Technical Stack ⚡
 
 **Languages And Frameworks**
 
@@ -148,7 +148,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Signal Board
+## Signal Board ✨
 
 <p align="center">
   <img src="https://img.shields.io/badge/Build%20Mode-Research%20to%20Production-03d8f3?style=plastic&logoColor=050816" alt="Research to production" />
@@ -156,13 +156,13 @@
   <img src="https://img.shields.io/badge/Open%20to-Collaboration%20and%20Applied%20AI-ff0055?style=plastic&logoColor=white" alt="Open to collaboration and applied AI" />
 </p>
 
-## 3D Activity
+## 3D Activity 🌌
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution landscape" />
 </p>
 
-## GitHub Signals
+## GitHub Signals 📊
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jkanishkha0305&theme=2077" width="49%" alt="Repositories per language" />
@@ -173,7 +173,7 @@
   <img src="https://streak-stats.demolab.com?user=Jkanishkha0305&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
 </p>
 
-## Contribution Snake
+## Contribution Snake 🐍
 
 <p align="center">
   <picture>
