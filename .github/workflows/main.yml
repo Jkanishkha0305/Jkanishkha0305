@@ -1,29 +1,48 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "17 2,14 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/main.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: generate-snake
+  cancel-in-progress: true
 
 jobs:
-  build:
-    name: Jobs to update datas
+  snake:
+    name: Build contribution snake
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      # Snake Animation
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Jkanishkha0305
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%230ea5e9&color_dots=%23e2e8f0,%23bae6fd,%237dd3fc,%230ea5e9,%230369a1
+            dist/github-snake-dark.svg?color_snake=%2322c55e&color_dots=%230f172a,%231e293b,%230f766e,%230ea5e9,%2322c55e
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+
+      - name: Publish snake assets to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          commit_message: docs: update snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
