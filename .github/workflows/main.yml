@@ -27,11 +27,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Jkanishkha0305
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg?color_snake=%230ea5e9&color_dots=%23e2e8f0,%23bae6fd,%237dd3fc,%230ea5e9,%230369a1
             dist/github-snake-dark.svg?color_snake=%2322c55e&color_dots=%230f172a,%231e293b,%230f766e,%230ea5e9,%2322c55e
@@ -39,10 +41,33 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish snake assets to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-          commit_message: docs: update snake animation
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          worktree_dir="$(mktemp -d)"
+          trap 'git worktree remove "$worktree_dir" --force' EXIT
+
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git fetch --no-tags origin output
+            git worktree add -B output "$worktree_dir" FETCH_HEAD
+          else
+            git worktree add -b output "$worktree_dir"
+          fi
+
+          cp dist/github-snake.svg "$worktree_dir/github-snake.svg"
+          cp dist/github-snake-dark.svg "$worktree_dir/github-snake-dark.svg"
+          touch "$worktree_dir/.nojekyll"
+
+          cd "$worktree_dir"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-snake.svg github-snake-dark.svg .nojekyll
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "docs: update snake animation"
+          git push origin output
