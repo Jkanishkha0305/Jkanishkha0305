@@ -94,6 +94,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=050816" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=nodedotjs&logoColor=050816" alt="Node.js" />
   <img src="https://img.shields.io/badge/React_Native-00d8ff?style=plastic&logo=react&logoColor=050816" alt="React Native" />
   <img src="https://img.shields.io/badge/FastAPI-00a98f?style=plastic&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -125,6 +126,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/MLflow-00ffc8?style=plastic&logoColor=050816" alt="MLflow" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=plastic&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Jaeger-000000?style=plastic&logoColor=white" alt="Jaeger" />
   <img src="https://img.shields.io/badge/DVC-13ADC7?style=plastic&logoColor=050816" alt="DVC" />
   <img src="https://img.shields.io/badge/DagsHub-ff0055?style=plastic&logoColor=white" alt="DagsHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" />
